@@ -1,0 +1,11 @@
+pi-bluetooth (0.1.1) jessie; urgency=medium
+
+  * Use /dev/serial1
+
+ -- Serge Schneider <serge@raspberrypi.org>  Tue, 10 May 2016 21:39:57 +0100
+
+pi-bluetooth (0.1.0) jessie; urgency=low
+
+  * Initial Release.
+
+ -- Serge Schneider <serge@raspberrypi.org>  Thu, 25 Feb 2016 03:45:33 +0000
